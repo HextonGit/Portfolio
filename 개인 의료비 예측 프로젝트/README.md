@@ -14,7 +14,7 @@
 · To-be : ML 모델을 통해 구매 가능성이 높은 고객군을 추출하고 최적의 감지조건을 설정하여, 마케팅 반응률 향상을 기대
 ```
 <p align="center">
-  <![image](https://github.com/HextonGit/Portfolio/assets/128476637/52b18a1f-6476-4fb9-94f3-486a913a8b52)>
+  ![image](https://github.com/HextonGit/Portfolio/assets/128476637/52b18a1f-6476-4fb9-94f3-486a913a8b52)
 </p>
 
 <h6>※ 1) AUROC : Area under ROC, 이진 분류기의 성능을 측정하기 위한 지표, 다양한 임계값에서 모델의 분류 성능을 측정함</h6>  
