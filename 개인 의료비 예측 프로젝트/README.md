@@ -14,7 +14,7 @@
 · To-be : ML 모델을 통해 구매 가능성이 높은 고객군을 추출하고 최적의 감지조건을 설정하여, 마케팅 반응률 향상을 기대
 ```
 <p align="center">
-  <img src="https://github.com/HextonGit/Portfolio/assets/128476637/8aa5cb25-deb9-4880-9b27-e0372bbce651",  width="70%" height="70%">
+  <img src="https://github.com/HextonGit/Portfolio/assets/128476637/8aa5cb25-deb9-4880-9b27-e0372bbce651",  width="80%" height="80%">
   
 </p>
 
