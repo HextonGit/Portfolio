@@ -33,7 +33,7 @@
 . 의료 데이터를 다루며 의료 분야의 도메인 지식들과 의료 비용의 결정에 영향을 끼치는 주요 요인 확인
 ```
 
-※ 프로젝트 링크 > [바로가기](https://github.com/HextonGit/Portfolio/tree/main/개인-의료비-예측-프로젝트)  
+※ 프로젝트 링크 > [바로가기](https://github.com/HextonGit/Portfolio/tree/main/개인%20의료비%20예측%20프로젝트)  
  
 
 ## 2. 음악 장르 분류 및 추천 프로젝트
