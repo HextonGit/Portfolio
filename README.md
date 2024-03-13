@@ -60,7 +60,7 @@
 ```
 <br>
 
-※ 프로젝트 링크 > [바로가기](https://github.com/HextonGit/Portfolio/tree/main/음악-장르-분류-및-추천-프로젝트)  
+※ 프로젝트 링크 > [바로가기](https://github.com/HextonGit/Portfolio/tree/main/음악%20장르%20분류%20및%20추천%20프로젝트)  
 
 ## 3. 그림 스타일 변환 프로젝트
 
@@ -85,5 +85,5 @@
 · 이미지 파일에 처리에 대한 도메인 지식 및 통일해야 하는 이미지 파일의 종류, 크기, 특성에 대한 이해
 ```
 
-※ 프로젝트 링크 - [바로가기](https://github.com/HextonGit/Portfolio/tree/main/그림-스타일-변환-프로젝트)
+※ 프로젝트 링크 - [바로가기](https://github.com/HextonGit/Portfolio/tree/main/그림%20스타일%20변환%20프로젝트)
 
