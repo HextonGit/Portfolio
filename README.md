@@ -33,7 +33,7 @@
 . 의료 데이터를 다루며 의료 분야의 도메인 지식들과 의료 비용의 결정에 영향을 끼치는 주요 요인 확인
 ```
 
-※ 프로젝트 링크 > [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)  
+※ 프로젝트 링크 > [바로가기](https://github.com/HextonGit/Portfolio/tree/main/개인-의료비-예측-프로젝트)  
  
 
 ## 2. 음악 장르 분류 및 추천 프로젝트
@@ -60,7 +60,7 @@
 ```
 <br>
 
-※ 프로젝트 링크 > [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트B)  
+※ 프로젝트 링크 > [바로가기](https://github.com/HextonGit/Portfolio/tree/main/음악-장르-분류-및-추천-프로젝트)  
 
 ## 3. 그림 스타일 변환 프로젝트
 
@@ -85,5 +85,5 @@
 · 이미지 파일에 처리에 대한 도메인 지식 및 통일해야 하는 이미지 파일의 종류, 크기, 특성에 대한 이해
 ```
 
-※ 프로젝트 링크 - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)
+※ 프로젝트 링크 - [바로가기](https://github.com/HextonGit/Portfolio/tree/main/그림-스타일-변환-프로젝트)
 
